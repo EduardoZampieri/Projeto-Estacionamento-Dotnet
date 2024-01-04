@@ -1,0 +1,14 @@
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\bin\Debug\net8.0\Projeto-Estacionamento.exe
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\bin\Debug\net8.0\Projeto-Estacionamento.deps.json
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\bin\Debug\net8.0\Projeto-Estacionamento.runtimeconfig.json
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\bin\Debug\net8.0\Projeto-Estacionamento.dll
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\bin\Debug\net8.0\Projeto-Estacionamento.pdb
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.AssemblyInfoInputs.cache
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.AssemblyInfo.cs
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.csproj.CoreCompileInputs.cache
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.dll
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\refint\Projeto-Estacionamento.dll
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.pdb
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\Projeto-Estacionamento.genruntimeconfig.cache
+D:\Pichau\Documents\DIO Curso\Projeto-Estacionamento\obj\Debug\net8.0\ref\Projeto-Estacionamento.dll
